@@ -1,9 +1,3 @@
-#
-# Author:: Rohit Amarnath (<rohit.amarnath@full360.com>)
-# Copyright:: Copyright (c) 2012 Full 360 Inc.
-# All rights reserved - Do Not Redistribute
-#
-
 wintask_principal 'Administrator' do
   logon_type :interactive_token
 end
